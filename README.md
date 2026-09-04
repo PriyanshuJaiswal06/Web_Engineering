@@ -18,6 +18,7 @@ Web_Engineering/
 ├── Practice/
 │   └── Practice exercises and previous practice files
 │
+├── LICENSE
 ├── .gitignore
 └── README.md
 ```
